@@ -1,0 +1,7 @@
+/*VER RAMAS*/
+https://git-scm.com/book/es/v1/Ramificaciones-en-Git-Gesti%C3%B3n-de-ramificaciones
+
+git branch
+Da una lista de las ramas presentes en el proyecto
+
+el carácter * delante de la rama nos indica la rama en la que estamos
